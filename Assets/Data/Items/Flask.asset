@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30aa56abdb604a9c8d3198000d3bf5c3, type: 3}
+  m_Name: Flask
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: e52ea25af699fd445b7046374f81a5b9, type: 3}
+  itemName: Flask
+  display: "\u5143\u7D20\u74F6"
+  maxItemAmount: 10
+  currentItemAmount: 5
+  itemModel: {fileID: 8936795056479105658, guid: f6b13f016b7b20643a133a2233d0c9f0, type: 3}
+  consumeAnimation: Drink
+  isInteracting: 0
+  estusFlask: 1
+  ashenFlask: 0
+  healthRecoverAmount: 0
+  focusPointsRecoverAmount: 0
+  recoverFX: {fileID: 1563296520104278138, guid: 489a108f54f589045957f6bb09904446, type: 3}

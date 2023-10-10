@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4f6170c76444aa8c3d77f479dc13bb, type: 3}
+  m_Name: Talisman
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 0e123cfdc54a3ca4684816a34167a566, type: 3}
+  itemName: Talisman
+  display: 
+  modelPrefab: {fileID: 5163906037222174716, guid: 4ea3ba185d959f04f86ee624a0afa09e, type: 3}
+  isUnarmed: 0
+  weaponController: {fileID: 22100000, guid: 2a789461318cf874b86fb3915883725d, type: 2}
+  offHandIdleAnimation: Left_Arm_Idle_01
+  weaponType: 1
+  physicalDamage: 25
+  fireDamage: 0
+  criticalDamageMultiplier: 4
+  poiseBreak: 0
+  offensivePoiseBonus: 0
+  physicalDamageAbsorption: 0
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0
+  tap_RB_Action: {fileID: 0}
+  tap_RT_Action: {fileID: 0}
+  tap_LB_Action: {fileID: 0}
+  tap_LT_Action: {fileID: 0}
+  hold_RB_Action: {fileID: 0}
+  hold_RT_Action: {fileID: 0}
+  hold_LB_Action: {fileID: 0}
+  hold_LT_Action: {fileID: 0}

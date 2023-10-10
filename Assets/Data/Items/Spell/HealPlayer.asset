@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de0a415a6dc441dca8319e14a873930c, type: 3}
+  m_Name: HealPlayer
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 00ff01c9b7bdce24ba319cc0bb69ab17, type: 3}
+  itemName: 
+  spellWarmUpFX: {fileID: 4486970539565866460, guid: 75da18eee729fe24eb7ab0409c85d754, type: 3}
+  spellCastFX: {fileID: 7075198152209057156, guid: e478734c71ec2354d832d4e424a8703a, type: 3}
+  spellAnimation: ritual_start
+  focusPointCost: 50
+  isFaithSpell: 1
+  isMagicSpell: 0
+  isPyroSpell: 0
+  spellDescription: 
+  healAmount: 50

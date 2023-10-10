@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c191e96152e4312a02601d4f7837b56, type: 3}
+  m_Name: Clump Moss
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 4a39cb4b272639541b7bd5ac0649acf7, type: 3}
+  itemName: Clump Moss
+  display: "\u89E3\u836F\u6C34\uFF01"
+  maxItemAmount: 10
+  currentItemAmount: 1
+  itemModel: {fileID: 7804685445689680770, guid: 406f455649d5f3b44b55d1ba2f21462d, type: 3}
+  consumeAnimation: Drink
+  isInteracting: 0
+  clumpConsumeFX: {fileID: 3661479700502088983, guid: ff9ef68aefb1dfa449ff863ea8a930f5, type: 3}
+  curePoison: 1

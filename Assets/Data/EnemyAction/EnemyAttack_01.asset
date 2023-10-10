@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3eb12f15ecb4782a76b8eaaf2440982, type: 3}
+  m_Name: EnemyAttack_01
+  m_EditorClassIdentifier: 
+  actionAnimation: OH_Light_Attack_01
+  canCombo: 1
+  comboAction: {fileID: 11400000, guid: e6c76cbe579238f42bf9f654c60e19f4, type: 2}
+  attackScore: 3
+  recoveryTime: 4
+  maximumAttackAngle: 35
+  minimumAttackAngle: -35
+  minimumDistanceNeededToAttack: 0
+  maximumDistanceNeededToAttack: 3
